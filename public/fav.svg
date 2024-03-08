@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 72.001px;
+        fill: #1d831b;
+        font-family: "Cascadia Mono";
+      }
+    </style>
+  </defs>
+  <text id="SD" class="cls-1" transform="matrix(5.587, 0, 0, 5.587, 18.813, 414.265)">SD</text>
+</svg>
