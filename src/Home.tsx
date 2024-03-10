@@ -47,9 +47,10 @@ const Home = () => {
                 <p>Youtube</p>
                 <p>We Chat</p>
                 <p>Skylyte Comunity</p>
+                <p>Github</p>
               </div>
           </div>
-              <div className="footer-item copyright">© Skylyte Inc. All rights reserved 2021-2024.</div>
+              <p className=" copyright">© Skylyte Inc. All rights reserved 2021-2024.</p>
       </footer>
   </div>
   );
